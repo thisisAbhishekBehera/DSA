@@ -60,7 +60,7 @@ public class Basic_Sorting {
     }
 
     public static void insertionSort(int arr[] ) {
-        for(int i = 0; i<arr.length; i++) {
+        for(int i = 1; i<arr.length; i++) {
             int curr = arr[i];
             int prev = i-1;
             //finding out the correct position to insert
