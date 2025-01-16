@@ -9,7 +9,7 @@ public class Strings {
 
     public static void main(String args[]) {
         String firstName = "Abhishek";
-        String lastName = "Bhagyashree";
+        String lastName = "Abhijita";
         String fullName = firstName + "  <3  " +  lastName;
         printLetters(fullName);
         
